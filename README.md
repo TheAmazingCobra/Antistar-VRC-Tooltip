@@ -1,4 +1,4 @@
-# Antistar Tooltip
+# Antistar.Tooltip
 
 The Antistar support and FAQ window that comes with our packs. Open it from **Antistar Assets > Support & FAQ**.
 
