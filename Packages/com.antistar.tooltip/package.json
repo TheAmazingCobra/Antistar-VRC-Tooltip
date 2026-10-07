@@ -1,0 +1,19 @@
+{
+  "name": "com.antistar.tooltip",
+  "displayName": "Antistar.Tooltip",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "The Antistar support and FAQ window that comes with our packs.",
+  "author": {
+    "name": "Antistar",
+    "url": "https://antistar.gg"
+  },
+  "legacyFolders": {
+    "Assets\\Antistar Store\\Tooltip": "2d496bb6bec9ff847a38636b9ad1c10e"
+  },
+  "legacyFiles": {
+    "Assets\\Antistar Store\\Tooltip\\Editor\\AntistarTooltip.cs": "94df6bed996edc34aa69fe7873cb20a3",
+    "Assets\\Antistar Store\\Tooltip\\Editor\\icon.png": "39e02ec0e02cab84ca825370cc6a7005",
+    "Assets\\Antistar Store\\Tooltip\\Editor\\AntistarBanner.jpg": "5d3643d356263174ab98a0d91806cd59"
+  }
+}
