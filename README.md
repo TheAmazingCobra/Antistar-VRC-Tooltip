@@ -2,7 +2,7 @@
 
 The Antistar support and FAQ window that comes with our packs. Open it from **Antistar Assets > Support & FAQ**.
 
-Get it from the [Antistar listing](https://theamazingcobra.github.io/Antistar.Listing/) in VCC. Installing it removes the old copy in `Assets/Antistar Store/Tooltip`.
+Get it from the [Antistar listing](https://theamazingcobra.github.io/Antistar-VCC-Listing/) in VCC. Installing it removes the old copy in `Assets/Antistar Store/Tooltip`.
 
 ## Releasing
 
